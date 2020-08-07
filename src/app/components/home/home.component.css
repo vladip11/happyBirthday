@@ -1,0 +1,31 @@
+
+#carrousel_02{
+    float: left;
+    width: 720px;
+    height: auto;
+    margin: 10px;
+}
+#carrousel_01{
+    float: left;
+    width: 350px;
+    height: auto;
+    margin: 10px;
+}
+#lateral{
+    float: left;
+    width: 360px;
+    height: 730px;
+}
+#carrousel_03,#carrousel_04{
+    float: left;
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+}
+
+#goku{
+    float: left;
+    width: 350px;
+    margin: 20px;
+    margin-left: 65px;
+}

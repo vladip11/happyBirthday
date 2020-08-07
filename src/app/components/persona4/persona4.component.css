@@ -1,0 +1,19 @@
+#video{
+    margin: 20px;
+    float: left;
+}
+
+#foto{
+    margin: 25px;
+    margin-top: 40px;
+    float: left;
+}
+
+.jumbotron{
+    background-image: url('../../../assets/vladi_fondo_03.jpg');
+    color: bisque;
+}
+
+#mod_NSM{
+    width: 300px;
+}
